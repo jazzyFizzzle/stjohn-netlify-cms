@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'Awe shitlipz! '
-image: /img/home-jumbotron.jpg
+image: /img/bird-dog_exercise.jpg
 heading: 'Go to: https://wizardly-lalande-53b177.netlify.com/admin/'
 subheading: Let me know when you do that
 mainpitch:
